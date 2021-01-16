@@ -60,8 +60,7 @@ And you are ready to make pull request.
 
 ## Project Admin
 
-| <a href="https://github.com/smitbarmase"><img src="https://avatars2.githubusercontent.com/u/37347831?s=460&u=a121b0f8a7444ff4e5253e9034baae3956c72498&v=4" width=70px height=70px /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Smit Barmase, Web Lead @ DSC VIT &copy; 2020-21](https://www.github.com/smitbarmase/)                                                                                                   |
+| <a href="https://github.com/smitbarmase"><img src="https://avatars2.githubusercontent.com/u/37347831?s=460&u=a121b0f8a7444ff4e5253e9034baae3956c72498&v=4" width=35px height=35px style="border-radius: 3px;" /></a> | [Smit Barmase, Web Lead @ DSC VIT &copy; 2020-21](https://www.github.com/smitbarmase/) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 
 > **_Need help?_** > **_Feel free to contact me @ [smitbarmase@outlook.com](mailto:smitbarmase@outlook.com)_**
